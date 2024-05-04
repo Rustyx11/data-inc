@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1622576597 source:c:\users\gonzur\desktop\mikroprojekt\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1623396993 source:c:\users\nusty\desktop\studia\programowanie_main\podstawy programowania 2\mikroprojekt\mikroprojekt\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
